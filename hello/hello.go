@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Liu-YT/stringutil"
+
+	"github.com/Liu-YT/Hello-Go/test"
 )
 
 func main() {
