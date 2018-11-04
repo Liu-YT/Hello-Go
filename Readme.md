@@ -1,6 +1,6 @@
 [TOC]
 
-### Go 学习
+### Go 学习 ![build](https://travis-ci.org/Liu-YT/Hello-Go.svg?branch=master)
 
 #### 工作空间
 
